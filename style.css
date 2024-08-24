@@ -2,7 +2,9 @@
     padding: 0;
     margin: 0;
 }
-
+.box a{
+    color: white;
+}
 .header{
     display: flex;
     justify-content: center;
