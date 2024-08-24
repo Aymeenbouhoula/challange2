@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    font-size: 30px;
+    background-color: blue;
+    padding: 30px;
+    color: white;
+}
+
+.link{
+    border: 1px solid gray;
+    height: 75px;
+    display: flex;
+    width: 150px;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90px;
+}
+p{
+    color: white;
+}
+a:hover{
+    color: red;
+}
